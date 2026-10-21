@@ -1,26 +1,20 @@
-\# Topic Index
+\# DSA Learning Notes
 
 
 
-\- Arrays
+Use this folder for theory, explanations, and revision.
 
-\- Strings
 
-\- Linked Lists
 
-\- Stacks and Queues
+\- Time and Space Complexity
 
-\- Hashing
+\- Java Collections for DSA
 
-\- Trees and Heaps
+\- Recursion and Backtracking
 
-\- Graphs
+\- Data Structure Fundamentals
 
-\- Matrices
+\- Problem-Solving Techniques
 
-\- Mathematics
-
-\- Sorting and Searching
-
-\- Logic and Puzzles
+\- Interview Preparation
 

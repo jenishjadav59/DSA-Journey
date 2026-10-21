@@ -1,26 +1,32 @@
-\# Topic Index
+\# Problem-Solving Patterns
 
 
 
-\- Arrays
+Patterns describe how a problem can be solved.
 
-\- Strings
 
-\- Linked Lists
 
-\- Stacks and Queues
+\- Two Pointers
 
-\- Hashing
+\- Sliding Window
 
-\- Trees and Heaps
+\- Fast and Slow Pointers
 
-\- Graphs
+\- Prefix Sum
 
-\- Matrices
+\- Binary Search
 
-\- Mathematics
+\- Monotonic Stack
 
-\- Sorting and Searching
+\- Backtracking
 
-\- Logic and Puzzles
+\- Divide and Conquer
+
+\- Greedy
+
+\- Dynamic Programming
+
+\- BFS and DFS
+
+\- Bit Manipulation
 
