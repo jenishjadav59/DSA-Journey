@@ -1,8 +1,8 @@
-\# DSA Progress
+# DSA Progress
 
 
 
-\## Weekly Summary
+## Weekly Summary
 
 
 
@@ -14,21 +14,21 @@
 
 
 
-\## Daily Learning Log
+## Daily Learning Log
 
 
 
-\### YYYY-MM-DD
+### YYYY-MM-DD
 
-\- \*\*Topics learned:\*\*
+- \*\*Topics learned:\*\*
 
-\- \*\*Problems attempted:\*\*
+- \*\*Problems attempted:\*\*
 
-\- \*\*Problems solved:\*\*
+- \*\*Problems solved:\*\*
 
-\- \*\*Challenges:\*\*
+- \*\*Challenges:\*\*
 
-\- \*\*Problems to revise:\*\*
+- \*\*Problems to revise:\*\*
 
-\- \*\*Next learning goal:\*\*
+- \*\*Next learning goal:\*\*
 
