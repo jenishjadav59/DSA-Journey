@@ -1,4 +1,4 @@
-\# Problem-Solving Patterns
+# Problem-Solving Patterns
 
 
 
@@ -6,27 +6,27 @@ Patterns describe how a problem can be solved.
 
 
 
-\- Two Pointers
+- Two Pointers
 
-\- Sliding Window
+- Sliding Window
 
-\- Fast and Slow Pointers
+- Fast and Slow Pointers
 
-\- Prefix Sum
+- Prefix Sum
 
-\- Binary Search
+- Binary Search
 
-\- Monotonic Stack
+- Monotonic Stack
 
-\- Backtracking
+- Backtracking
 
-\- Divide and Conquer
+- Divide and Conquer
 
-\- Greedy
+- Greedy
 
-\- Dynamic Programming
+- Dynamic Programming
 
-\- BFS and DFS
+- BFS and DFS
 
-\- Bit Manipulation
+- Bit Manipulation
 
