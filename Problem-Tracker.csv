@@ -1,1 +1,2 @@
 ID,Problem,Platform,URL,Topics,Patterns,Algorithms,Difficulty,Status,DateSolved,TimeComplexity,SpaceComplexity,RevisionDate,FilePath,Notes
+LC-0001,Two Sum,LeetCode,https://leetcode.com/problems/two-sum/,Arrays,Brute Force,Pair Search,Easy,Solved,2026-10-21,O(n^2),O(1),,problems/leetcode/0001-two-sum/Solution.java,Initial brute-force solution
