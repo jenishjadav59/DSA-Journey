@@ -1,4 +1,4 @@
-\# Algorithms
+# Algorithms
 
 
 
@@ -6,49 +6,49 @@ Store algorithm explanations and reusable implementations here.
 
 
 
-\## Sorting
+## Sorting
 
-\- Bubble Sort
+- Bubble Sort
 
-\- Selection Sort
+- Selection Sort
 
-\- Insertion Sort
+- Insertion Sort
 
-\- Merge Sort
+- Merge Sort
 
-\- Quick Sort
-
-
-
-\## Searching
-
-\- Linear Search
-
-\- Binary Search
+- Quick Sort
 
 
 
-\## Graph Algorithms
+## Searching
 
-\- BFS
+- Linear Search
 
-\- DFS
-
-\- Dijkstra's Algorithm
-
-\- Topological Sorting
-
-\- Minimum Spanning Tree
+- Binary Search
 
 
 
-\## Mathematical Algorithms
+## Graph Algorithms
 
-\- GCD and LCM
+- BFS
 
-\- Prime Numbers
+- DFS
 
-\- Modular Arithmetic
+- Dijkstra's Algorithm
 
-\- Number Theory
+- Topological Sorting
+
+- Minimum Spanning Tree
+
+
+
+## Mathematical Algorithms
+
+- GCD and LCM
+
+- Prime Numbers
+
+- Modular Arithmetic
+
+- Number Theory
 

@@ -1,26 +1,26 @@
-\# Topic Index
+# Topic Index
 
 
 
-\- Arrays
+- Arrays
 
-\- Strings
+- Strings
 
-\- Linked Lists
+- Linked Lists
 
-\- Stacks and Queues
+- Stacks and Queues
 
-\- Hashing
+- Hashing
 
-\- Trees and Heaps
+- Trees and Heaps
 
-\- Graphs
+- Graphs
 
-\- Matrices
+- Matrices
 
-\- Mathematics
+- Mathematics
 
-\- Sorting and Searching
+- Sorting and Searching
 
-\- Logic and Puzzles
+- Logic and Puzzles
 
