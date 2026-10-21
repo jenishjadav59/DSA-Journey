@@ -6,7 +6,7 @@ This tracker records solved problems, their difficulty, topics, complexity, and 
 
 | ID | Problem | Platform | Topics | Difficulty | Status | Date Solved | Time Complexity | Space Complexity | Solution |
 |---|---|---|---|---|---|---|---|---|---|
-| LC-0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | Solved | 2026-10-21 | O(n²) | O(1) | [View Solution](problems/leetcode/0001-two-sum/Solution.java) |
+| LC-0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | Solved | 2026-10-21 | O(n²) | O(1) | [View Solution](problems/leetcode/0001-Two-Sum/Solution.java) |
 
 ---
 
