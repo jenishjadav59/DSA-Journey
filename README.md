@@ -1,26 +1,34 @@
 # DSA Journey...
 
-My journey of learning Data Structures and Algorithms (DSA) using Java, solving coding problems, and preparing for technical interviews.
+My journey of learning **Data Structures and Algorithms (DSA) using Java**, solving coding problems, improving problem-solving skills, and preparing for technical interviews.
+
+This repository contains my coding practice, problem solutions from different platforms, basic mathematical programs, pattern programs, topic-wise problem indexes, and revision notes.
 
 ## Goals
 
-- Learn DSA from fundamentals to advanced topics.
-- Improve problem-solving and analytical skills.
+- Learn DSA from fundamentals to advanced concepts.
+- Strengthen logical thinking and problem-solving skills.
 - Practice coding problems consistently.
-- Prepare for technical interviews.
-- Track my learning progress on GitHub.
+- Prepare for coding assessments and technical interviews.
+- Track my progress and maintain a public record of my learning journey.
 
 ## Repository Structure
 
 | Directory / File | Description |
 |---|---|
-| `problems/` | Solutions organized by coding platform |
-| `topics/` | Problems categorized by DSA topic |
-| `patterns/` | Problems categorized by problem-solving pattern |
-| `algorithms/` | Algorithm explanations and implementations |
-| `notes/` | Theory and revision notes |
-| `Problem-Tracker.csv` | Master record of solved and attempted problems |
-| `Progress.md` | Daily learning log and milestones |
+| `Problem-Tracker.md` | Readable problem tracker with clickable links to problem statements and solution files on GitHub. |
+| `Problem-Tracker.csv` | Structured record of problems for sorting, filtering, and further analysis in spreadsheet applications. |
+| `Problems/LeetCode/` | Solutions to problems from LeetCode. |
+| `Problems/HackerRank/` | Solutions to problems from HackerRank. |
+| `Problems/GeeksForGeeks/` | Solutions to problems from GeeksforGeeks. |
+| `Problems/Others/Basic-Mathematical-Programs/` | Fundamental mathematical and number-based programs. |
+| `Problems/Others/Patterns/` | Star patterns, number patterns, alphabet patterns, and other pattern-printing programs. |
+| `Topics/` | Organizes problems by DSA topic. |
+
+Each problem folder can contain:
+
+- `README.md` — problem statement, examples, approach, and complexity analysis.
+- `Solution.java` — Java implementation.
 
 ## Programming Language
 
@@ -32,20 +40,18 @@ My journey of learning Data Structures and Algorithms (DSA) using Java, solving 
 - [HackerRank](https://www.hackerrank.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
-## How I Organize Problems
-
-- Store each problem solution in one location under `problems/`.
-- Record all relevant topics and patterns in `Problem-Tracker.csv`.
-- Link the same solution from multiple topic or pattern indexes when applicable.
-- Document the approach, time complexity, and space complexity.
-- Revisit difficult problems to strengthen understanding.
-
 ## Progress
 
-I am building my DSA skills step by step, starting with fundamentals and gradually progressing to advanced algorithms and interview problems.
+This repository is a growing record of my learning journey. I am starting with fundamentals and gradually progressing toward more advanced data structures, algorithms, and interview-oriented problems.
 
-My focus is on consistent practice, understanding the logic, and improving my problem-solving skills.
+My focus is on:
+
+- **Consistency :** Practicing regularly.
+- **Understanding :** Learning why a solution works, not merely memorizing code.
+- **Efficiency :** Improving time and space complexity.
+- **Organization :** Maintaining clean, reusable, and well-documented solutions.
+- **Progress tracking :** Recording solved problems and revisiting important concepts.
 
 ---
 
-*Learning one concept and solving one problem at a time.*
+*Learning one concept, solving one problem, and improving every day.*
